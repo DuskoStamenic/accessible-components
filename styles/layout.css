@@ -122,6 +122,21 @@ li {
   list-style: square;
 }
 
+.centered_text_content {
+  text-align: center;
+}
+
+footer > p {
+  text-align: center;
+}
+
+.homepage_links {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+  justify-content: center;
+}
+
 @media screen and (max-width: 760px) {
   body {
     padding-inline: var(--spacing-s);
