@@ -211,7 +211,7 @@ img {
   margin: var(--center-it);
   margin-bottom: var(--spacing-m);
   background-color: var(--accent-10);
-  max-width: var(--text-width-medium);
+  max-width: var(--text-width-wide);
   border-radius: var(--radius-s);
   padding: var(--spacing-m);
 }
