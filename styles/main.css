@@ -76,8 +76,8 @@ textarea:not([rows]) {
 :root {
   /* Colors: */
   --bg: #16181d;
-  --accent: #5686f5;
-  --accent-10: rgba(238, 58, 235, 0.063);
+  --accent: #5586f6;
+  --accent-10: #131f39;
   --emphasis: #e8e8fd;
   --text: #98a0b3;
   /* Spacing */
